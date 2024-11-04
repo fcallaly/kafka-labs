@@ -76,7 +76,7 @@ View the options for the kafka-topics.sh tool.
 
 Can you use it to see the partitions for your topic?
 
-What happens if you stop a broker using docker-compose and then continue to send messages?
+What happens if you stop and start a broker using docker-compose and then continue to send messages?
 
 ### Optional Extras - 2 ###
 
